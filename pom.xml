@@ -80,9 +80,17 @@
 
   <developers>
     <developer>
-      <id>amazonwebservices</id>
-      <organization>Amazon Web Services</organization>
-      <organizationUrl>https://aws.amazon.com</organizationUrl>
+      <id>Daniele Madama</id>
+      <organization>Etalia SA</organization>
+      <organizationUrl>http://www.etalia.net</organizationUrl>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>Simone Gianni</id>
+      <organization>Etalia SA</organization>
+      <organizationUrl>http://www.etalia.net</organizationUrl>
       <roles>
         <role>developer</role>
       </roles>
